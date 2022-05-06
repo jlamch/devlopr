@@ -9,17 +9,17 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Navigation
 urls:
     - text: Home
-      url: /
+      url: /devlopr/
     - text: About
-      url: /about
+      url: /devlopr/about
     - text: Blog
-      url: /blog
+      url: /devlopr/blog
     - text: Gallery
-      url: /gallery
+      url: /devlopr/gallery
     - text: Shop
-      url : /shop
+      url : /devlopr/shop
     - text: Contact
-      url : /contact
+      url : /devlopr/contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
